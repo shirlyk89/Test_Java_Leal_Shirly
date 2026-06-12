@@ -1,0 +1,57 @@
+========================================================================
+         REPORTE GLOBAL DE GESTIÓN — TECNOSTORE
+         Fecha de generación: 11/06/2026  20:14:25
+========================================================================
+========================================================================
+  SECCIÓN 1 ▸ TOTAL DE VENTAS FACTURADAS
+------------------------------------------------------------------------
+  Monto total acumulado de ventas:         $5.880,00
+
+========================================================================
+  SECCIÓN 2 ▸ UNIDADES VENDIDAS AGRUPADAS POR MODELO
+------------------------------------------------------------------------
+  N°    MARCA           MODELO               UNIDADES VENDIDAS
+  ------------------------------------------------------------------------
+  1     Apple           iPhone 13            3 unid.
+  2     Xiaomi          Redmi Note 13 Pro    2 unid.
+  3     XIAOMI          YS30                 1 unid.
+  4     Samsung         Galaxy S24 Ultra     1 unid.
+  5     Motorola        Moto G84             1 unid.
+  6     Samsung         Galaxy A14           1 unid.
+  7     Xiaomi          pocoC65              0 unid.
+  8     APPLE           12                   0 unid.
+  9     Samsung         A70                  0 unid.
+  10    Apple           iphone 17promax      0 unid.
+  11    honor           xc7 pro              0 unid.
+------------------------------------------------------------------------
+  Total unidades vendidas:                 9 unidades
+
+========================================================================
+  SECCIÓN 3 ▸ CLIENTES CON CRÉDITOS PENDIENTES
+------------------------------------------------------------------------
+  ❌ Error al consultar créditos: Table 'tecnostore_db.creditos' doesn't exist
+
+========================================================================
+  SECCIÓN 4 ▸ STOCK ACTUAL DEL INVENTARIO
+  Umbral de alerta: productos con 5 unidades o menos
+------------------------------------------------------------------------
+  ID    MARCA         MODELO           GAMA    STOCK    ESTADO
+  ------------------------------------------------------------------------
+  15    honor         xc7 pro          BAJA    9        🟢 OK
+  2     Samsung       Galaxy S24 Ultra ALTA    10       🟢 OK
+  1     XIAOMI        YS30             ALTA    18       🟢 OK
+  6     Apple         iPhone 13        ALTA    20       🟢 OK
+  4     Motorola      Moto G84         MEDIA   25       🟢 OK
+  3     Xiaomi        Redmi Note 13 P… MEDIA   30       🟢 OK
+  5     Samsung       Galaxy A14       BAJA    40       🟢 OK
+  7     Xiaomi        pocoC65          MEDIA   50       🟢 OK
+  8     APPLE         12               ALTA    100      🟢 OK
+  10    Samsung       A70              BAJA    100      🟢 OK
+  13    Apple         iphone 17promax  ALTA    107      🟢 OK
+------------------------------------------------------------------------
+  Productos en alerta de stock:            0 producto(s)
+  Total unidades en inventario:            509 unidades
+
+========================================================================
+  FIN DEL REPORTE — TecnoStore  |  Sistema de Gestión v1.0
+========================================================================
